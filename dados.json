@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nome": "Vestido",
+        "descricao": "Vestido curto estampado em tule ",
+        "preco": 219.90,
+        "imagem": "https://hering.vtexassets.com/arquivos/ids/2957167-600-auto"
+    },
+    {
+        "id": 2,
+        "nome": "Calça",
+        "descricao": "Calça de Sarja Reta ",
+        "preco": 259.99,
+        "imagem": "https://hering.vtexassets.com/arquivos/ids/2956771-600-auto"
+        },
+    {
+        "id": 3,
+        "nome": "Blusa",
+        "descricao": "Blusa Feminina Gola Alta Em Tricô Leve",
+        "preco": 169.99,
+        "imagem": "https://hering.vtexassets.com/arquivos/ids/2855434-800-auto/K5G4-6NSI-C1.jpg?v=638737955077270000"
+    },
+    {
+        "id": 4,
+        "nome": "Shorts",
+        "descricao": "Shorts Feminino Em Alfaiataria",
+        "preco": 219.99,
+        "imagem": "https://hering.vtexassets.com/arquivos/ids/2843952-600-auto"
+    },
+    {
+        "id": 5,
+        "nome": "Sapatilha",
+        "descricao": "Sapatilha Bico Redondo Laço",
+        "preco": 185.00,
+        "imagem": "https://hering.vtexassets.com/arquivos/ids/2964622-600-auto"
+    },
+    {
+        "id": 6,
+        "nome": "Boné",
+        "descricao": "Boné Masculino Aba Curva 1880",
+        "preco": 69.0,
+        "imagem": "https://hering.vtexassets.com/arquivos/ids/2222816-600-auto"
+    },
+    {
+        "id": 7,
+        "nome": "Bolsa",
+        "descricao": "Bolsa Transversal Em Nylon",
+        "preco": 399.0,
+        "imagem": "https://hering.vtexassets.com/arquivos/ids/2682395-800-auto/LZ1D-N10SI-C3.jpg?v=638730136354930000"
+    }
+]
